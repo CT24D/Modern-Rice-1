@@ -1,0 +1,21 @@
+set $wallpaper /home/jmkwrld/Wallpapers/catgirl.jpg
+
+set $background #190000
+set $foreground #c3c1c1
+
+set $color0 #190000
+set $color1 #c1a500
+set $color2 #db007c
+set $color3 #d6bb00
+set $color4 #fca700
+set $color5 #ff601a
+set $color6 #ffc525
+set $color7 #968c8c
+set $color8 #c00000
+set $color9 #ffcc02
+set $color10 #ff269f
+set $color11 #ffe81f
+set $color12 #fec552
+set $color13 #ffa579
+set $color14 #ffdb88
+set $color15 #c3c1c1
